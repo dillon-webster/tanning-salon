@@ -2,3 +2,7 @@ __pycache__/
 .pytest_cache/
 .venv/
 tanning_salon.db
+env
+.env
+*.db
+.venv
